@@ -1,0 +1,25 @@
+{
+  "models": [
+    {
+      "title": "GPT-4o (KeyRelay)",
+      "provider": "openai",
+      "model": "gpt-4o",
+      "apiBase": "https://api.keyrelayhq.com/v1",
+      "apiKey": "kr_live_wEGuHpY2qhwA0YUAgq9lhsjLc8dCQN7D"
+    },
+    {
+      "title": "Claude Sonnet (KeyRelay)",
+      "provider": "openai",
+      "model": "claude-sonnet-4",
+      "apiBase": "https://api.keyrelayhq.com/v1",
+      "apiKey": "kr_live_wEGuHpY2qhwA0YUAgq9lhsjLc8dCQN7D"
+    }
+  ],
+  "tabAutocompleteModel": {
+    "title": "autocomplete",
+    "provider": "openai",
+    "model": "gpt-4o-mini",
+    "apiBase": "https://api.keyrelayhq.com/v1",
+    "apiKey": "kr_live_wEGuHpY2qhwA0YUAgq9lhsjLc8dCQN7D"
+  }
+}
